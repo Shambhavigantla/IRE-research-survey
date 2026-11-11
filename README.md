@@ -1,6 +1,6 @@
 # Private Information Retrieval (Information-Theoretic Track)
  
-
+Shambhavi Gantla - 2026801014
 
 The **information-theoretic foundations and capacity limits of Private Information Retrieval (PIR)** — the multi-server line from Chor–Goldreich–Kushilevitz–Sudan through the Sun–Jafar capacity results, including the connection to locally decodable codes (LDCs).
  
