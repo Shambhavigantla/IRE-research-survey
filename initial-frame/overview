@@ -1,0 +1,21 @@
+                    PRIVATE INFORMATION RETRIEVAL
+                              │
+                              ▼
+              "Retrieve xᵢ without revealing i"
+                              │
+              ┌───────────────┴────────────────┐
+              │                                │
+              ▼                                ▼
+       Single Server                      Multiple Servers
+              │                                │
+              ▼                                ▼
+      Computational PIR              Information-Theoretic PIR
+      (hardness assumptions)         (privacy from randomness)
+                                               │
+                                               ▼
+                                    Can communication be reduced?
+                                               │
+                      ┌────────────────────────┼───────────────────┐
+                      ▼                        ▼                   ▼
+                 Constructions            Lower Bounds          Capacity
+                 "How?"               "How efficient?"      "Optimal limit?"
